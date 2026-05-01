@@ -1,5 +1,3 @@
-#include "OpenKNXHardware.h"
-
 #pragma once
 #include "HardwareConfig.h"
 
